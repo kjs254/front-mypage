@@ -1,0 +1,57 @@
+body {
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+}
+
+#main {
+    background-color: rgba(255, 255, 255, 0.3);
+    text-align: center;
+    width: 80%;
+    height: 500px;
+    border: 5px solid rgba(0, 255, 255, 0.2);
+    border-radius: 20px;
+    margin: 30px auto;
+    padding: 30px;
+}
+
+#main img {
+    width: 220px;
+    margin: 20px;
+}
+#main p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+    padding: 10px;
+    background-color: rgba(192, 237, 248, 0.7);
+    width: 300px;
+    border: 1px solid;
+    border-radius: 35px;
+    margin: 20px auto;
+}
+
+#main a {
+    color: black;
+    text-decoration: none;
+}
+
+.whale {
+    text-align: center;
+    padding: 150px;
+}
+.whale img {
+    margin-right: 30px;
+    margin-top: 20px auto;
+    width: 200px;
+}
+
+.foods {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.foods img {
+    width: 300px;
+    border-radius: 50%;
+    margin: 20px;
+}
